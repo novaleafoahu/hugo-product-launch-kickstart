@@ -1,5 +1,5 @@
 ---
-header_brand: "Builders Of The Future, Inc."
+header_brand: "Nova Leaf, Inc."
 header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
 header_button_cta:
   url: "#contact-form"
@@ -18,7 +18,7 @@ Some introductory text to get you excited about what we are doing. For example, 
 
 Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
 
-{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
+
 
 ---
 
@@ -52,4 +52,3 @@ We take data privacy very seriously, so we make sure not to store anything we do
 
 Let's stay in touch. Sign up for our newsletter. Do not worry, we will not bother you with boring details. Expect nice & tight updates about once or twice every 3 months.
 
-{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
